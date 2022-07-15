@@ -1,0 +1,197 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.container
+{
+    width:70%;
+    margin: 0 auto;
+}
+body
+{
+    background: linear-gradient(blue,lightblue);
+}
+header{
+    background-color: lightblue;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+div.logo1 > img
+{
+    width: 50%;
+}
+.avatar
+{
+    position:absolute;
+    top:0;
+    right:0;
+}
+div.avatar > a img{
+    width: 10em;
+
+}
+div.nav
+{
+    margin-left: auto;
+    margin-top: auto;
+}
+ul.menu
+{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul.menu > li > a
+{
+    display: block;
+    padding: 15px 25px;
+    background: linear-gradient(darkblue,lightblue);
+    border-radius: 15px 15px 0 0;
+    color: white;
+    margin-right: 10px;
+}
+ul.menu >li > a:hover{
+    background: gold;
+    color:red;
+}
+header h1{
+    color:rgb(172,4,4);
+    text-shadow: 2px 3px 3px red ;
+}
+div >h1{
+    font-size: 5em;
+}
+section.works{
+    background-color: green; 
+}
+div.control
+{
+    text-align: center;
+    padding:15px;
+
+}
+input{
+    padding: 10px;
+}
+input[type=text], input[type=date]
+{
+    width: 30%;
+    color: darkblue;
+}
+input[type=button]
+{
+    background-color: darkblue;
+    color: white;
+    border: 1px solid white;
+     width: 80px;
+}
+.col15
+{
+    width: 15%;
+}
+.col60
+{
+    width: 60%;
+}
+.col15
+{
+    width: 15%;
+}
+.col10
+{
+    width: 10%;
+}
+div.item{
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+section.ads > div
+{
+    background: linear-gradient(darkblue,blue);
+    border: 2px solid gold;
+    width: 13%;
+    text-align: center;
+    position: fixed;
+    padding: 8em 0;
+}
+section.ads > div:first-child
+{
+    left: 1%;
+}
+section.ads > div:last-child
+{
+    right: 1%;
+}
+footer
+{
+    background-color: lightblue;
+    padding: 2em 0;
+    overflow: hidden;
+}
+footer > span{
+
+    animation: dichuyen 20s infinite;
+    position: relative;
+    font-size: 50px;
+    color:rgb(172,4,4);
+    text-shadow: 2px 3px 3px red ;
+}
+@keyframes dichuyen{
+    from{
+        left: 0;
+    }
+    to{
+        left: 100%;
+
+    }
+}
+h1.subject
+{
+    border-bottom: 5px solid darkblue;
+}
+h1.subject > span
+{
+    background-color:blue;
+    display: block;
+    width: 30%;
+    padding: 10px;
+    font-size: 2em;
+    position: relative;
+}
+h1.subject >span::after
+{
+    content:" ";
+    border-width: 37px;
+    border-style: solid;
+   border-color: transparent transparent blue blue;
+   position: absolute;
+   left:100%;
+   bottom:0%;
+}
+div.picture 
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+div.picture > figure
+{
+    width: 25%;
+    margin: 0;
+    padding: 5px;
+}
+div.picture > figure img{
+    width: 100%;
+}
+div.picture > figure >figcaption h1{
+    text-align: center;
+    color: black;
+}
+
