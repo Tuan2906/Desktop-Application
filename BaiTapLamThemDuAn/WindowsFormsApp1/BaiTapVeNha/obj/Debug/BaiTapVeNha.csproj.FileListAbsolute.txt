@@ -1,0 +1,14 @@
+D:\WindowsFormsApp1\BaiTapVeNha\bin\Debug\BaiTapVeNha.exe.config
+D:\WindowsFormsApp1\BaiTapVeNha\bin\Debug\BaiTapVeNha.exe
+D:\WindowsFormsApp1\BaiTapVeNha\bin\Debug\BaiTapVeNha.pdb
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.Properties.Resources.resources
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.exe
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.pdb
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.fParent.resources
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.frmLogin.resources
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.frmVe.resources
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.hinhTrongHinh.resources
+D:\WindowsFormsApp1\BaiTapVeNha\obj\Debug\BaiTapVeNha.frmTheSinhVien.resources

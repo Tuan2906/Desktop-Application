@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "version1", "version1\version1.csproj", "{97E02ACF-A95C-4C37-9A9F-83B50F9BEFFC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FlappyBird", "FlappyBird\FlappyBird.vdproj", "{32B7F3D9-14C1-4627-8158-4B77C77477CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapTuLamC2", "..\BaiTapTuLamC2\BaiTapTuLamC2.csproj", "{7E7AFBD1-6CD4-46CA-9DA7-6B1BAD65C0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E02ACF-A95C-4C37-9A9F-83B50F9BEFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E02ACF-A95C-4C37-9A9F-83B50F9BEFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E02ACF-A95C-4C37-9A9F-83B50F9BEFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E02ACF-A95C-4C37-9A9F-83B50F9BEFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B7F3D9-14C1-4627-8158-4B77C77477CD}.Debug|Any CPU.ActiveCfg = Debug
+		{32B7F3D9-14C1-4627-8158-4B77C77477CD}.Release|Any CPU.ActiveCfg = Release
+		{7E7AFBD1-6CD4-46CA-9DA7-6B1BAD65C0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7AFBD1-6CD4-46CA-9DA7-6B1BAD65C0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7AFBD1-6CD4-46CA-9DA7-6B1BAD65C0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7AFBD1-6CD4-46CA-9DA7-6B1BAD65C0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D741978-784A-47A7-B88C-887AA95FF3B6}
+	EndGlobalSection
+EndGlobal

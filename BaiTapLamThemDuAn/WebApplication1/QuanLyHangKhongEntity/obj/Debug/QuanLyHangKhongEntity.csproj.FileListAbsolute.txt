@@ -1,0 +1,12 @@
+D:\WebApplication1\QuanLyHangKhongEntity\bin\Debug\QuanLyHangKhongEntity.dll
+D:\WebApplication1\QuanLyHangKhongEntity\bin\Debug\QuanLyHangKhongEntity.pdb
+D:\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.csproj.CoreCompileInputs.cache
+D:\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.dll
+D:\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.pdb
+D:\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.csproj.AssemblyReference.cache
+D:\BaiTapLamThemDuAn\WebApplication1\QuanLyHangKhongEntity\bin\Debug\QuanLyHangKhongEntity.dll
+D:\BaiTapLamThemDuAn\WebApplication1\QuanLyHangKhongEntity\bin\Debug\QuanLyHangKhongEntity.pdb
+D:\BaiTapLamThemDuAn\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.csproj.AssemblyReference.cache
+D:\BaiTapLamThemDuAn\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.csproj.CoreCompileInputs.cache
+D:\BaiTapLamThemDuAn\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.dll
+D:\BaiTapLamThemDuAn\WebApplication1\QuanLyHangKhongEntity\obj\Debug\QuanLyHangKhongEntity.pdb

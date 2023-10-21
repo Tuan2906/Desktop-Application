@@ -1,0 +1,10 @@
+D:\WindowsFormsApp1\BaiTapVeOPP\bin\Debug\BaiTapVeOPP.exe.config
+D:\WindowsFormsApp1\BaiTapVeOPP\bin\Debug\BaiTapVeOPP.exe
+D:\WindowsFormsApp1\BaiTapVeOPP\bin\Debug\BaiTapVeOPP.pdb
+D:\WindowsFormsApp1\BaiTapVeOPP\obj\Debug\BaiTapVeOPP.Properties.Resources.resources
+D:\WindowsFormsApp1\BaiTapVeOPP\obj\Debug\BaiTapVeOPP.csproj.GenerateResource.cache
+D:\WindowsFormsApp1\BaiTapVeOPP\obj\Debug\BaiTapVeOPP.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApp1\BaiTapVeOPP\obj\Debug\BaiTapVeOPP.exe
+D:\WindowsFormsApp1\BaiTapVeOPP\obj\Debug\BaiTapVeOPP.pdb
+D:\WindowsFormsApp1\BaiTapVeOPP\obj\Debug\BaiTapVeOPP.csproj.AssemblyReference.cache
+D:\WindowsFormsApp1\BaiTapVeOPP\obj\Debug\BaiTapVeOPP.PhepToanPhanSo.resources

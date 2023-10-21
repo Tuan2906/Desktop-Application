@@ -1,0 +1,12 @@
+D:\WebApplication1\Myclass\bin\Debug\Myclass.dll.config
+D:\WebApplication1\Myclass\bin\Debug\Myclass.dll
+D:\WebApplication1\Myclass\bin\Debug\Myclass.pdb
+D:\WebApplication1\Myclass\bin\Debug\EntityFramework.dll
+D:\WebApplication1\Myclass\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebApplication1\Myclass\bin\Debug\EntityFramework.xml
+D:\WebApplication1\Myclass\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebApplication1\Myclass\obj\Debug\Myclass.csproj.AssemblyReference.cache
+D:\WebApplication1\Myclass\obj\Debug\Myclass.csproj.CoreCompileInputs.cache
+D:\WebApplication1\Myclass\obj\Debug\Myclass.csproj.CopyComplete
+D:\WebApplication1\Myclass\obj\Debug\Myclass.dll
+D:\WebApplication1\Myclass\obj\Debug\Myclass.pdb

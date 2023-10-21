@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+8X42PdOjZIm96ssHZJlL3mT7wvupHupIaOOuZ6/Q9Exqp0eSsAMAnxYyGU5h6TjvS2JXoMpWUTlvsvuCiW+g==",
+  "success": true,
+  "projectFilePath": "D:\\WebApplication1\\QuanLiBanHang\\QuanLiBanHang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tuan Chau\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tuan Chau\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Tuan Chau\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
